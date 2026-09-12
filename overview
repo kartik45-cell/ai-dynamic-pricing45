@@ -1,0 +1,13 @@
+# 📊 Dynamic Pricing Analytics & Optimization Engine
+
+An end-to-end Machine Learning and Analytics dashboard designed for Retail and E-Commerce platforms. This application leverages price elasticity modeling, historical transaction data, and promotional uplift parameters to recommend optimal price points that maximize both top-line revenue and net profit without sacrificing customer retention.
+
+---
+
+### 🌟 Key Features
+
+* **💡 Real-Time Recommendation Engine**: Instantly generates revenue-maximizing price points along with expected demand loss limits and net profit margins.
+* **📈 Interactive Sensitivity Curves**: Interactive Plotly charts mapping Price vs. Demand response, Revenue curves, and Net Profit optimization boundaries.
+* **🎛️ Dynamic Price Simulator**: Real-time slider allowing business users to simulate custom price scenarios and assess immediate financial impacts.
+* **⚡ One-Click Catalog Update**: Interactive session workflow enabling users to apply recommended pricing directly to active inventory.
+* **🤖 Model Accuracy Metrics**: Displays core ML performance metrics ($R^2$, MAE) alongside contextual business explanations for model explainability.
