@@ -1,2 +1,12 @@
-# ai-dynamic-pricing45
-AI-Driven Dynamic Pricing Engine built with Python, Streamlit, and Plotly. Optimizes retail prices to maximize revenue and net profit using elasticity modeling and demand forecasting.
+## 🚀 Quickstart Guide
+
+### Prerequisites
+Make sure you have Python 3.9+ installed on your system.
+
+### Installation
+
+1. **Clone the repository:**
+   ```bash
+   git clone [https://github.com/your-username/dynamic-pricing-analytics.git](https://github.com/your-username/dynamic-pricing-analytics.git)
+   cd dynamic-pricing-analytics
+   
